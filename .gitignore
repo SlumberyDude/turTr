@@ -1,3 +1,4 @@
 dist
 flac.exe
 venv
+.DS_Store
