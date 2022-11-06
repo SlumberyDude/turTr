@@ -2,3 +2,9 @@ dist
 flac.exe
 venv
 .DS_Store
+.editorconfig
+.vscode
+**/__pycache__
+callbacks.py
+device.py
+test.py
